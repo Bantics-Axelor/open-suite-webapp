@@ -2,6 +2,9 @@
 build
 .gradle
 
+# VSCode
+.vscode
+
 # Eclispe
 bin
 .project
